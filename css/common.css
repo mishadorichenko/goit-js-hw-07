@@ -38,6 +38,7 @@ li {
 
 #boxes {
   display: flex;
+  flex-wrap: wrap;
   row-gap: 32px;
   column-gap: 16px;
   padding: 32px;
